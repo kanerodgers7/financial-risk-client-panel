@@ -1,4 +1,4 @@
-# TRAD client panel hp
+# TRAD client panel
 
 ### Web App for Credit Risk Assessment
 
